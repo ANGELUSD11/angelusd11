@@ -8,7 +8,7 @@
 
 <div class="aboutme" align="center">
     <h2>About me📚</h2>
-    <p>My name is Angel💠, I'm currently 19 years old. I started learning to code on my own at the age of 16, driven by my lifelong passion for technology💻. I'm currently          studying a technical degree in Software Analysis and Development while working on my own projects. I consider Python to be my strongest skill🐍—I love the language, which is why I've decided to specialize in it🔍. Right now, I'm exploring different Python libraries📚 like OpenCV for computer vision, as well as tools for data science such as Scikit-learn, Pandas, and Numpy..</p>
+    <p>My name is Angel💠, I'm currently 19 years old. I started learning to code on my own at the age of 16, driven by my lifelong passion for technology💻. I'm currently          studying a technical degree in Software Analysis and Development while working on my own projects. I consider Python to be my strongest skill🐍. I love the language, which is why I've decided to specialize in it🔍. Right now, I'm exploring different Python libraries📚 like OpenCV for computer vision, as well as tools for data science such as Scikit-learn, Pandas, and Numpy..</p>
     <h2>My Skills🚀</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="100px" />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="100px"/>     
