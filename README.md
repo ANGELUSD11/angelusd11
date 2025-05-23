@@ -7,7 +7,6 @@
 ---
 
 <div class="aboutme" align="center"
-    <h2>My Skills🚀</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="100px" />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="100px"/>     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="100px"/>
