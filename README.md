@@ -17,7 +17,7 @@
 
 ### Tecnologías que manejo💻
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,astro,python,tensorflow,pytorch,flask,django,fastapi,opencv" />
+  <img src="https://skillicons.dev/icons?i=html,css,astro,python,mysql,tensorflow,pytorch,flask,django,fastapi,opencv" />
   <br/>
   <img src="https://skillicons.dev/icons?i=bootstrap,linux,bash,mint,vscode,replit,godot,git,github,discord,bots" />
 </p>
