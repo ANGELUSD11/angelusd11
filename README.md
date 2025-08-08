@@ -11,7 +11,7 @@
 ---
 
 ### Sobre Mí 🤔
-**Desarrollador Python autodidacta🐍**(principalmente :p), linuxlover🐧, me apasiona la innovación tecnológica, actualmente estudiando Machine Learning e Inteligencia Artificial🤖 (Data Science📚, Computer Vision👀), gamedev en Godot🎮 y YouTuber ocasional📹
+**Desarrollador Python autodidacta🐍**(principalmente :p), linuxlover🐧, me apasiona la informática y la innovación tecnológica, actualmente estudiando Machine Learning e Inteligencia Artificial🤖 (Data Science📚, Computer Vision👀), gamedev en Godot🎮, YouTuber ocasional📹
 
 ---
 
