@@ -25,3 +25,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/diamond-robot-blue" />
 </p>
+
+---
+
+### Proyectos interesantes⌨️
+- [TDMBOT DISCORD BOT💠](https://github.com/ANGELUSD11/TDMBOT)
+- [BertoAI ChatBot🌱](https://github.com/ANGELUSD11/Berto-AI)
+- [RobtopLvlID Model🟨](https://github.com/RobtopLvlID)
