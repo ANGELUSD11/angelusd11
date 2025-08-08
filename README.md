@@ -32,3 +32,8 @@
 - [TDMBOT DISCORD BOT💠](https://github.com/ANGELUSD11/TDMBOT)
 - [BertoAI ChatBot🌱](https://github.com/ANGELUSD11/Berto-AI)
 - [RobtopLvlID Model🟨](https://github.com/RobtopLvlID)
+
+---
+
+### Último video📹
+<a href="https://www.youtube.com/watch?v=n_L2AG_-dxs" target="blank">   <img align="center" width="400px" height="400px" src="https://i.ytimg.com/vi/n_L2AG_-dxs/hqdefault.jpg"/></a>&nbsp;&nbsp;
