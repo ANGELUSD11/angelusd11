@@ -1,6 +1,9 @@
 <div align="center">
 
   <h1>ANGELUSD11💠</h1>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ANGELUSD11&color=blue"/>
+  </p>
 
   <img src="images/lv_0_20240413154055.gif" alt="Preview" />
 
@@ -18,4 +21,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,astro,python,tensorflow,pytorch,flask,django,opencv" />
   <br/>
   <img src="https://skillicons.dev/icons?i=bootstrap,linux,bash,mint,vscode,replit,godot,git,github,discord,bots" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/diamond-robot-blue" />
 </p>
