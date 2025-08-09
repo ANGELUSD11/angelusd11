@@ -25,6 +25,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/diamond-robot-blue" />
   <img src="https://img.shields.io/badge/gd-player-yellow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
 ---
