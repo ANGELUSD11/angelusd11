@@ -15,7 +15,7 @@
 
 ---
 
-### Tecnologías que manejo (y que estoy aprendiendo :p)💻
+### Tecnologías que manejo (y que estoy aprendiendo :p)💻🚀
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,astro,python,mysql,tensorflow,pytorch,flask,django,fastapi,opencv" />
   <br/>
