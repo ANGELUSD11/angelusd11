@@ -47,4 +47,5 @@
 
 ### Últimos videos📹
 <a href="https://www.youtube.com/watch?v=n_L2AG_-dxs" target="blank">   <img align="center" width="400px" height="400px" src="images/miniadef (1).png"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=TKbDN0jD6-U" target="blank">   <img align="center" width="400px" height="400px" src="images/nuevaminiaturaadvad (1).png"></a>&nbsp;&nbsp;
 <a href="https://youtu.be/gKWSZcGCsv4?si=vUcHFIlMg1x3Onz0" target="blank">   <img align="center" width="400px" height="400px" src="images/minigeode.png"/></a>&nbsp;&nbsp;
