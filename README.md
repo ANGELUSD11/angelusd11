@@ -37,7 +37,7 @@
 
 ---
 
-### Herramientas de IA que recomiendo🤖👍
+### Herramientas y modelos de IA que recomiendo🤖👍
 - [Claude Code🏵️](https://www.anthropic.com/claude-code)
 - [Gemini CLI👨‍💻](https://github.com/google-gemini/gemini-cli)
 - [Cursor🔳](https://cursor.com/)
