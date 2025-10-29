@@ -10,12 +10,12 @@
 
 ---
 
-### Sobre mí 🤔
-**Desarrollador Python autodidacta💚🐍**(principalmente :p), Linuxlover🐧, me apasiona la informática y la innovación tecnológica, actualmente estudiando Machine Learning e Inteligencia Artificial🤖 (Data Science📚, Computer Vision👀), gamedev en Godot🎮, YouTuber ocasional📹
+### About me 🤔
+**Self-taught Python developer💚🐍** (mostly :p), Linux lover🐧, passionate about computer science and technological innovation, currently studying Machine Learning and Artificial Intelligence🤖 (Data Science📚, Computer Vision👀), game developer at Godot🎮, occasional YouTuber📹
 
 ---
 
-### Tecnologías que manejo (y que estoy aprendiendo :p)💻🚀
+### Technologies I use (and am learning :p)💻🚀
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,astro,python,mysql,tensorflow,pytorch,flask,django,fastapi,opencv" />
   <br/>
@@ -29,7 +29,7 @@
 
 ---
 
-### Proyectos interesantes⌨️
+### Interesting projects ⌨️
 - [TDMBOT DISCORD BOT💠](https://github.com/ANGELUSD11/TDMBOT)
 - [BertoAI ChatBot🌱](https://github.com/ANGELUSD11/Berto-AI)
 - [RobtopLvlID Model🟨](https://github.com/RobtopLvlID)
