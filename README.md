@@ -4,8 +4,6 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ANGELUSD11&color=blue"/>
   </p>
-
-  <img src="images/lv_0_20240413154055.gif" alt="Preview" />
 </div>
 
 ---
