@@ -1,9 +1,7 @@
 <div align="center">
 
   <h1>ANGELUSD11💠</h1>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ANGELUSD11&color=blue"/>
-  </p>
+
   <pre><code>
                                         
                               @                              
