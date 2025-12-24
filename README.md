@@ -1,6 +1,6 @@
 
 ### About me 🤔
-**Self-taught Python developer💚🐍** (mostly :p), Linux lover🐧, passionate about computer science and technological innovation, currently studying Machine Learning and Artificial Intelligence🤖 (Data Science📚, Computer Vision👀), game developer at Godot🎮, occasional YouTuber📹
+**Self-taught Python developer💚🐍** (mostly :p), Linux lover🐧, passionate about computer science and technological innovation, currently studying Software engineering💻 (Data Science📚, Computer Vision👀), game developer at Godot🎮, occasional YouTuber📹
 
 ---
 
