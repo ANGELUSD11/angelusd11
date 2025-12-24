@@ -15,11 +15,3 @@
   <img src="https://img.shields.io/badge/diamond-robot-blue" />
   <img src="https://img.shields.io/badge/gd-player-yellow" />
 </p>
-
----
-
-### Interesting projects ⌨️
-- [TDMBOT DISCORD BOT💠](https://github.com/ANGELUSD11/TDMBOT)
-- [BertoAI ChatBot🌱](https://github.com/ANGELUSD11/Berto-AI)
-- [RobtopLvlID Model🟨](https://github.com/RobtopLvlID)
-- [ADVAD🚀](https://github.com/ANGELUSD11/ADVAD1D)
