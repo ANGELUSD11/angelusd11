@@ -4,7 +4,7 @@
 
 ---
 
-### Technologies I use (and am learning :p)💻🚀
+### Technologies I use (and am learning :p)💻
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,astro,python,mysql,tensorflow,pytorch,flask,django,fastapi,opencv" />
   <br/>
