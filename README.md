@@ -1,6 +1,6 @@
 
 ### About me 🤔
-**Self-taught Python developer💚🐍** (mostly :p), 20y, Linux🐧, passionate about computer science and technological innovation, currently studying Software Engineering💻, gamedev at Godot🎮, occasional YouTuber📹
+**Python developer💚🐍** (mostly :p), 20y, Linux🐧, passionate about computer science and technological innovation, currently studying Software Engineering💻 and working as a developer and researcher, gamedev at Godot🎮, occasional YouTuber📹
 
 ### Technologies I use (and am learning :p)💻
 <p align="left">
